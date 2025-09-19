@@ -1,4 +1,4 @@
-package factory_method.model;
+package factory_method.notification_system.model;
 
 public enum NotificationType {
     EMAIL,

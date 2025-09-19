@@ -1,6 +1,6 @@
-package factory_method.factory;
+package factory_method.notification_system.factory;
 
-import factory_method.model.*;
+import factory_method.notification_system.model.*;
 
 public class NotificationFactory {
 

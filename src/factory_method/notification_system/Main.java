@@ -1,8 +1,8 @@
-package factory_method;
+package factory_method.notification_system;
 
-import factory_method.factory.NotificationFactory;
-import factory_method.model.NotificationType;
-import factory_method.service.NotificationService;
+import factory_method.notification_system.factory.NotificationFactory;
+import factory_method.notification_system.model.NotificationType;
+import factory_method.notification_system.service.NotificationService;
 
 public class Main {
     public static void main(String[] args) {

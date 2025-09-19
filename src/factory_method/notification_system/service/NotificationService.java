@@ -1,8 +1,8 @@
-package factory_method.service;
+package factory_method.notification_system.service;
 
-import factory_method.factory.NotificationFactory;
-import factory_method.model.Notification;
-import factory_method.model.NotificationType;
+import factory_method.notification_system.factory.NotificationFactory;
+import factory_method.notification_system.model.Notification;
+import factory_method.notification_system.model.NotificationType;
 
 public class NotificationService {
 
