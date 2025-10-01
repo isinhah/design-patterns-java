@@ -1,5 +1,6 @@
 package structural_patterns.decorator.coffee_shop;
 
+// 2 - Implementação base
 public class SimpleCoffee implements Beverage {
 
     @Override
