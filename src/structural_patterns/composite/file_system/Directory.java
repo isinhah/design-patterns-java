@@ -3,6 +3,7 @@ package structural_patterns.composite.file_system;
 import java.util.ArrayList;
 import java.util.List;
 
+// Nó composto
 public class Directory implements FileSystemComponent {
     private String name;
     private List<FileSystemComponent> components = new ArrayList<>();
