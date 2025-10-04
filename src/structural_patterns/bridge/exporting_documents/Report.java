@@ -1,6 +1,6 @@
 package structural_patterns.bridge.exporting_documents;
 
-// 2 - Abstração: Relatório
+// 2 - Abstração: Relatório é a ponte (bridge)
 abstract class Report {
     protected ExportFormat format;
 
