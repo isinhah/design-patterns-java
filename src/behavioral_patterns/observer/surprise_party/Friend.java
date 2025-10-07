@@ -1,4 +1,4 @@
-package behavioral_patterns.surprise_party;
+package behavioral_patterns.observer.surprise_party;
 
 // Concrete observer: implementa o Observer e define o que deve ser feito quando o Subject muda de estado
 public class Friend implements Guest {

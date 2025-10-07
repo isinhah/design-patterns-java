@@ -1,4 +1,4 @@
-package behavioral_patterns.surprise_party;
+package behavioral_patterns.observer.surprise_party;
 
 public class Main {
     public static void main(String[] args) {
